@@ -1,2 +1,4 @@
 # FPS-Game
-Unity Microgame
+
+My first unity microgame built using unity learning pathway
+
